@@ -1,5 +1,7 @@
 # All-Project-Links
 
+<details><summary><b>Links here</b></summary>
+
 # 1. [Nagios-Monitoring-Tool](https://github.com/HackBugs/Nagios-Monitoring-Tool)
 # 2. [SampleWebApp with Jenkins Apache Topmcate](https://github.com/HackBugs/SampleWebApp)
 # 3. [Jenkins-CICD-django-notes-app](https://github.com/HackBugs/Jenkins-CICD-django-notes-app)
